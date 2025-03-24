@@ -38,4 +38,4 @@ function bark(name, weight) {
     }
 }
 
-bark("Rocky", 24)
+bark("Rocky", 24) ;
